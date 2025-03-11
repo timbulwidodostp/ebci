@@ -1,6 +1,8 @@
 # ebci
 Robust empirical Bayes confidence intervals Use ebci With (In) R Software
 
+https://www.youtube.com/watch?v=EvP-aHjw0SY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
